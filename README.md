@@ -1,5 +1,5 @@
 # Open-Source Statistic Degree
-Este projeto tem o objetivo de criar um currículo bem estruturado de Bacharelado em Estatística baseado num [currículo real](https://www.sigaa.ufs.br/sigaa/link/public/curso/curriculo/1037300) aberto e acessível para **estudos**. Os topicos foram divididos em "Estágios", equivalente aos períodos, com tempo sugerido de estudo de 3 meses em cada estágio.
+Este projeto tem o objetivo de criar um currículo bem estruturado de Bacharelado em Estatística baseado num [currículo real](https://www.sigaa.ufs.br/sigaa/link/public/curso/curriculo/1037300) aberto e acessível para **estudos**, não pretendendo substituir uma graduação, para quem possa cursar. Os topicos foram divididos em "Estágios", equivalente aos períodos, com tempo sugerido de estudo de 3 meses em cada estágio.
 
 ### 1º Estágio
 #### ANÁLISE EXPLORATÓRIA DE DADOS
